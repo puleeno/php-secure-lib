@@ -1,0 +1,19 @@
+{
+    "name": "puleeno/php-secure-lib",
+    "description": "Tracking PHP function calls, backdoor scripts",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Puleeno\\PhpSecureLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
